@@ -13,6 +13,11 @@ This is a machine learning web application that recognizes handwritten digits (0
 -  Fast and accurate predictions  
 
 ---
+## Teck Stack
+-Python
+-Flask
+-TensFlow / Keras
+-HTML/CSS
 
 ##  Project Structure
 
@@ -51,17 +56,7 @@ digit_recognition_project/
 
 5. Upload a digit image and get prediction ✅
 
----
 
-## Screenshot
-
-Here is how the web app looks when you open it:
-
-![App Screenshot](screenshot.png)
-
-> Upload any handwritten digit image (0–9) and click *Predict* to see the result!
-
----
 
 ## Author
 
@@ -70,7 +65,7 @@ Here is how the web app looks when you open it:
 
 ---
 
-## Note
+## Improvements
 
 This project is built for learning and demonstration purposes.  can improve it by:
 - Adding better preprocessing
