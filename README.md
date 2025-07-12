@@ -14,10 +14,10 @@ This is a machine learning web application that recognizes handwritten digits (0
 
 ---
 ## Teck Stack
--Python
--Flask
--TensFlow / Keras
--HTML/CSS
+-   Python
+-   Flask
+-   TensFlow / Keras
+-   HTML/CSS
 
 ##  Project Structure
 
